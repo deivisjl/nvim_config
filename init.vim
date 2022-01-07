@@ -1,8 +1,8 @@
-source ~/AppData/Local/nvim-data/general/settings.vim
-source ~/AppData/Local/nvim-data/plug-config/start-screen.vim
-source ~/AppData/Local/nvim-data/keys/mappings.vim
-source ~/AppData/Local/nvim-data/nvim/vim-plug/plugins.vim
-source ~/AppData/Local/nvim-data/themes/gruvbox.vim
-source ~/AppData/Local/nvim-data/themes/airline.vim
-source ~/AppData/Local/nvim-data/keys/which-key.vim
-source ~/AppData/Local/nvim-data/plug-config/coc.vim
+source ~/AppData/Local/nvim/general/settings.vim
+source ~/AppData/Local/nvim/plug-config/start-screen.vim
+source ~/AppData/Local/nvim/keys/mappings.vim
+source ~/AppData/Local/nvim/vim-plug/plugins.vim
+source ~/AppData/Local/nvim/themes/gruvbox.vim
+source ~/AppData/Local/nvim/themes/airline.vim
+source ~/AppData/Local/nvim/keys/which-key.vim
+source ~/AppData/Local/nvim/plug-config/coc.vim

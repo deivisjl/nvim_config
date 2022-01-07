@@ -1,4 +1,6 @@
-# nvim config
+# Plugins for Neovim
+
+    Powered by saurav7j
 
 ## Screen
 
@@ -19,10 +21,10 @@
 
 ## Install config
 
-    git clone https://github.com/sauravj7/nvim_config ~/.config/nvim
+    git clone https://github.com/deivisjl/nvim_config ~/.config/nvim
 
     # For Windows
-    git clone https://github.com/sauravj7/nvim_config  C:\Users\[USER NAME]\AppData\Local\nvim
+    git clone https://github.com/deivisjl/nvim_config  C:\Users\[USER NAME]\AppData\Local\nvim
 
 ## Edit Config (only for Windows)
 
